@@ -4,9 +4,9 @@
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    color: #ffffff;
+    color: #c49393;
     background-size: cover;
-    background-color: #ffffff;
+    background-color: #7da271;
 }
 
 .site-header {
@@ -14,7 +14,7 @@ body {
     top: 0;
     width: 100%;
     height: 50px;
-    background-color: #5d6584;
+    background-color: #a927c7;
     border-bottom: 1px solid #ddd;
     padding: 1.5rem 2rem;
     display: flex;
